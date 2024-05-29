@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675737415273",
+    "project_id": "fluttter-ocr-camara",
+    "storage_bucket": "fluttter-ocr-camara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675737415273:android:ee4167143667bf3a8a3cf8",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpG53_5nVlXiT6PU3w0-9Cf1V2rQM1unc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
